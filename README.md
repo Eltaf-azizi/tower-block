@@ -5,3 +5,10 @@
 - **Simple Gameplay:** Click to drop the blocks and build your tower as high as possible.<br>
 - **Responsive Design:** Play the game on any device, thanks to its responsive web design.<br>
 - **Score Tracking:** Keep track of your highest tower and try to beat your personal best.<br>
+<h1>Installation</h1>
+Open your terminal or command prompt and run the following command:
+Install:
+
+    $ git clone https://github.com/<your-username>/tower-block-game.git
+
+
