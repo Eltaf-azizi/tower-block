@@ -26,5 +26,5 @@ Restart the Game: Refresh your web browser to start over and try to beat your pr
 Timing is Key: The secret to a tall tower is timing your clicks or taps precisely to ensure the blocks land directly on top of each other.
 Practice Makes Perfect: The more you play, the better you'll get at judging the moving blocks' speed and timing your drops.
 Enjoy building the tallest tower you can, and challenge yourself to beat your high scores!
-
+<h1>Technology Used:</h1>
 
