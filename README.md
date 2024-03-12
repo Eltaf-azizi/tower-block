@@ -26,5 +26,5 @@ Restart the Game: Refresh your web browser to start over and try to beat your pr
 Timing is Key: The secret to a tall tower is timing your clicks or taps precisely to ensure the blocks land directly on top of each other.
 Practice Makes Perfect: The more you play, the better you'll get at judging the moving blocks' speed and timing your drops.
 Enjoy building the tallest tower you can, and challenge yourself to beat your high scores!
-<h1>Technology Used:</h1>
-
+<h1>Languages Used:</h1>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
