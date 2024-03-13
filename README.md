@@ -35,5 +35,38 @@ https://github.com/Eltaf-azizi/tower-block/assets/129764881/153c8028-9fff-4ad0-9
 <p>This screenshot shows a moment during gameplay where the player has successfully stacked three blocks. Continue stacking blocks carefully to beat your high score!</p>
 https://github.com/Eltaf-azizi/tower-block/assets/129764881/1162588f-c0b8-4b4e-a05c-9b377a13226f
 <p>This is the "Game Over" screen that players see when the game ends. It displays the player's score and offers an encouraging message to celebrate their achievement. To try again and potentially beat their high score, players can click the screen or press the spacebar to restart the game.</p>
+<h1>Contributing</h1>
 
+We welcome contributions to the Tower Block Game! If you have an idea for improving the game or fixing a bug, here's how you can contribute:
+
+1. **Fork the Repository**
+   - Start by forking the project repository to your own GitHub account.
+
+2. **Clone the Forked Repository**
+   - Clone your fork to your local machine to make changes.
+
+3. **Create a New Branch**
+   - Create a branch for your new feature or bug fix. For example: `git checkout -b feature/add-new-block` or `git checkout -b fix/collision-bug`.
+
+4. **Make Your Changes**
+   - Implement your feature or fix the bug, and commit your changes with clear, descriptive commit messages.
+
+5. **Test Your Changes**
+   - Ensure your changes do not break any existing functionality, and test the new feature or fix thoroughly.
+
+6. **Update README**
+   - If your changes add a new feature or require modifications to the usage instructions, update the README.md accordingly.
+
+7. **Push Changes to GitHub**
+   - Push your changes to your fork on GitHub.
+
+8. **Submit a Pull Request**
+   - Open a pull request from your branch to the original project's `main` branch.
+   - Provide a detailed description of your changes and reference any relevant issues.
+
+9. **Code Review**
+   - Wait for a code review from the maintainers, and make any necessary revisions.
+
+10. **Merge**
+    - Once approved, your changes will be merged into the main project!
 
