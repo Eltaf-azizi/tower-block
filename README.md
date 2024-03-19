@@ -20,6 +20,7 @@ Getting Started
 You're ready to start playing once you've opened the Tower Block game in your web browser by following the installation instructions. The game begins immediately upon loading.
 
 <h3>Objective</h3>
+
 The Tower Block game aims to stack blocks as high as possible to build the tallest tower. Each block moves horizontally across the screen, and you must click or tap to drop it onto the stack below. The game continues until a block misses the stack, at which point your tower is complete, and your score is tallied based on the height of your tower.
 
 <h3>How to Play</h3>
