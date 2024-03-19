@@ -16,6 +16,7 @@ Install:
 <h1>Usage</h1>
 
 Getting Started
+<br>
 Once you've opened the Tower Block game in your web browser by following the installation instructions, you're ready to start playing. The game begins immediately upon loading.
 
 <h3>Objective</h3>
