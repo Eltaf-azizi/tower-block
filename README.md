@@ -40,9 +40,12 @@ Enjoy building the tallest tower you can, and challenge yourself to beat your hi
 
 ![312485948-07a78643-a380-4b9d-a26f-4330caf4427c](https://github.com/Eltaf-azizi/tower-block/assets/129764881/b2c86ce4-32b0-4e8d-8f01-2d929817aa27)
 <p>This is the initial start screen of the Tower Block Game. Here you are greeted with a minimalistic design inviting you to start the game. Simply click or tap the "Start" button to begin your tower-building adventure. The foundation block is displayed, ready for you to place the next block and start constructing your tower.</p>
-![312516831-153c8028-9fff-4ad0-9694-d3b4aa9e324e](https://github.com/Eltaf-azizi/tower-block/assets/129764881/8f61450e-b09f-424b-a8c7-8780cddec2f6)
+
+![312516831-153c8028-9fff-4ad0-9694-d3b4aa9e324e](https://github.com/Eltaf-azizi/tower-block/assets/129764881/c081807c-8870-4c42-b02c-c7db832949ed)
 <p>This screenshot shows a moment during gameplay where the player has successfully stacked three blocks. Continue stacking blocks carefully to beat your high score!</p>
-![312521506-1162588f-c0b8-4b4e-a05c-9b377a13226f](https://github.com/Eltaf-azizi/tower-block/assets/129764881/4d7b3b6d-b50a-4784-b20b-f50dd9c83cef)<p>This is the "Game Over" screen that players see when the game ends. It displays the player's score and offers an encouraging message to celebrate their achievement. To try again and potentially beat their high score, players can click the screen or press the spacebar to restart the game.</p>
+
+![312521506-1162588f-c0b8-4b4e-a05c-9b377a13226f](https://github.com/Eltaf-azizi/tower-block/assets/129764881/4d7b3b6d-b50a-4784-b20b-f50dd9c83cef)
+<p>This is the "Game Over" screen that players see when the game ends. It displays the player's score and offers an encouraging message to celebrate their achievement. To try again and potentially beat their high score, players can click the screen or press the spacebar to restart the game.</p>
 
 <h1>Contributing</h1>
 
