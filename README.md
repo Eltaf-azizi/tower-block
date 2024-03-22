@@ -38,7 +38,7 @@ Enjoy building the tallest tower you can, and challenge yourself to beat your hi
 
 <h1>Screenshot</h1>
 
-![312485948-07a78643-a380-4b9d-a26f-4330caf4427c](https://github.com/Eltaf-azizi/tower-block/assets/129764881/60c2b70a-4daf-43c7-86ba-926b594a23b0)
+![312485948-07a78643-a380-4b9d-a26f-4330caf4427c](https://github.com/Eltaf-azizi/tower-block/assets/129764881/b2c86ce4-32b0-4e8d-8f01-2d929817aa27)
 <p>This is the initial start screen of the Tower Block Game. Here you are greeted with a minimalistic design inviting you to start the game. Simply click or tap the "Start" button to begin your tower-building adventure. The foundation block is displayed, ready for you to place the next block and start constructing your tower.</p>
 ![312516831-153c8028-9fff-4ad0-9694-d3b4aa9e324e](https://github.com/Eltaf-azizi/tower-block/assets/129764881/8f61450e-b09f-424b-a8c7-8780cddec2f6)
 <p>This screenshot shows a moment during gameplay where the player has successfully stacked three blocks. Continue stacking blocks carefully to beat your high score!</p>
