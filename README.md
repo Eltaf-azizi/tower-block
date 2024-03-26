@@ -8,6 +8,7 @@
 - **Score Tracking:** Keep track of your highest tower and try to beat your personal best.<br>
 
 <h1>Installation</h1>
+
 Open your terminal or command prompt and run the following command:
 <br>
 Install:
