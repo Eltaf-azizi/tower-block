@@ -28,7 +28,9 @@ The Tower Block game aims to stack blocks as high as possible to build the talle
 <h3>How to Play</h3>
 
 Start the Game: The game starts automatically when you open the index.html file in your web browser. If you need to restart at anytime, simply refresh the browser page.
+
 <h4>Controls:</h4>
+
 Drop a Block: Click with your mouse or tap on the screen to drop a block from its moving position onto the tower below. The aim is to align it as perfectly as possible with the top block of the tower.
 Restart the Game: Refresh your web browser to start over and try to beat your previous score.
 <h4>Tips for High Scores</h4>
